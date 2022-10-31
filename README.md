@@ -15,7 +15,7 @@
   <hr><br>
  <img src="ORBITZ.png" alt="Orbitz ScreenShot currently unavailable, working on it"/>
 <h2>Team Members :</h2>
-  <li><a href="https://github.com/tanmaygawade/Orbitz-clone">Debasree Ghosh</a>(solo project)</li>
+  <li><a href="https://github.com/tanmaygawade/Orbitz-clone">Tanmay Gawade</a>(solo project)</li>
   
  <hr><hr>
 
