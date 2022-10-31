@@ -13,9 +13,9 @@
   <li>Trips Page</li>
   <li>Property Listing Page</li>
   <hr><br>
- <img src="" alt="Orbitz ScreenShot currently unavailable, working on it"/>
+ <img src="ORBITZ.png" alt="Orbitz ScreenShot currently unavailable, working on it"/>
 <h2>Team Members :</h2>
-  <li><a href="https://github.com/Debasree-3031999">Debasree Ghosh</a>(solo project)</li>
+  <li><a href="https://github.com/tanmaygawade/Orbitz-clone">Debasree Ghosh</a>(solo project)</li>
   
  <hr><hr>
 
